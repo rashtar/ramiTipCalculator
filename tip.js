@@ -8,7 +8,6 @@ if (args.length !== 2) {
     process.exit();
 }
 // Create a variable for the meal price
-// TODO this should be input from the user
 var mealPrice = args[0];
 var userSatisfaction = args[1];
 // Satisfaction measured on 3 levels:

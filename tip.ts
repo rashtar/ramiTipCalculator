@@ -11,7 +11,6 @@ if ( args.length !== 2 ) {
 }
 
 // Create a variable for the meal price
-// TODO this should be input from the user
 var mealPrice : number = args[0];
 var userSatisfaction : string = args[1];
 
